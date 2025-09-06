@@ -90,7 +90,6 @@ setup.bat
 python setup.py
 ````
 
-```
 ### Option 2: Manual Setup
 
 ```bash
@@ -112,7 +111,6 @@ echo "GROQ_API_KEY=your_key_here" > .env
 # 5. Run app
 streamlit run app.py
 ```
-
 ---
 
 ## 📌 Use Cases
@@ -124,13 +122,3 @@ streamlit run app.py
 * **Business Intelligence** → Extract insights from reports
 
 ---
-
-```
-
-👉 Key changes I made:
-- **Live Demo + Video at the top** (so visitors can test it instantly).  
-- **Badges fixed** (removed non-existent logos like `document_analysis`, replaced LangChain & FAISS with plain text style since they have no official logos on Shields.io).  
-- Cleaner formatting with dividers (`---`) for readability.  
-
-Would you like me to also **add collapsible sections** (like `<details>`) for Setup & Architecture, so the README looks shorter and more elegant at first glance?
-```
