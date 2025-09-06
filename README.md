@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo & Deployment
 
-- 🚀 **Try it here:** [DocuMind AI - Smart Document Assistant](https://docmind-ai-kp.streamlit.app/)  
+- 🚀 **Try it here:** [DocuMind AI - Smart Document Assistant](https://docmind-ai-kp.streamlit.app)  
 - 📽️ **Deployment Video:** [Watch](https://drive.google.com/file/d/1OTtTHaZRkavjen6Cm4BN_j4PXN7yrKL4/view?usp=sharing)  
 
 <div align="center">
